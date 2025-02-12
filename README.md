@@ -4,17 +4,21 @@ It will render the image which can be seleted from media library and allows edit
 
 # Installation
 
-Install the [RBT.Kentico.Xperience.Custom.Widgets.EditableImage.1.0.0](https://www.nuget.org/packages/RBT.Kentico.Xperience.Custom.Widgets.EditableIamge) NuGet Package to your Xperience by Kentico website (>=29.4.0 with .Net 8.0) and rebuild the project.
+Install the RBT.Kentico.Xperience.Custom.Widgets.EditableImage.1.0.0 NuGet Package to your Xperience by Kentico website (>=29.4.0 with .Net 8.0) and rebuild the project.
 
 # Widget
 
 This is a widget which allows you to select image from media library and set the dimensions of seleted image. Below are additional properties we can configure.
 
-- Alternate Text
-- Image CSS Class
-- Render as Link
-- Redirection URL
-- Link CSS Class
+- IsVisible: Select this to display the widget on the page
+- Image*: Select desired image from Media Library
+- Alternate Text*: Enter your desired Alt text for Image
+- Image CSS Class: Enter your desired CSS class for Image
+- Width: Enter your desired width for Image
+- Height: Enter your desired Height for Image
+- Redirection URL: Enter your desired redirection link URL 
+- ContentBefore: HTML content placed before the widget content. Can be used to display a header or add encapsulating code such as div tag
+- ContentAfter: HTML content placed after the widget content. Can be used to display a header or add encapsulating code such as div tag
 
 *Required fields
 
