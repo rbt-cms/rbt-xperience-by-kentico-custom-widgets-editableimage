@@ -25,7 +25,7 @@ This is a widget which allows you to select image from media library and set the
 # Author
 
 This custom widget was created by Ray Business Technologies Pvt Ltd.
-Last updated 14-02-2025
+Last updated 13-02-2025
 
 # License
 
