@@ -15,9 +15,9 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Ray Business Technologies")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("The Editable Image Widget allows content editors to dynamically add and configure" +
-    " images within the Kentico Xperience Page Builder")]
+    " image within the Page Builder")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+479e5005dca7743b7a6e806b3dc54d06d237ae54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9d201cc4e5f07c30d65bc558f4e1edc99237dc9")]
 [assembly: System.Reflection.AssemblyProductAttribute("RBT.Kentico.Xperience.Custom.Widgets.EditableImage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RBT.Kentico.Xperience.Custom.Widgets.EditableImage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

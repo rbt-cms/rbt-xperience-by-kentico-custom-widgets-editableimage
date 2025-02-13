@@ -1,6 +1,6 @@
 #  Xperience by Kentico Custom Widgets - Editable Image
 
-It will render the image which can be seleted from media library and allows editors to add class, alt text, dimensions and redirection link to image.
+It will render the image which can be selected from media library and allows editors to add class, alt text, dimensions and redirection link to image.
 
 # Installation
 
